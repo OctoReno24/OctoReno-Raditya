@@ -1,9 +1,9 @@
-kasir_chriss<?php
+kasir_Reno<?php
 
 $server = "localhost";
 $user = "root";
 $password = "";
-$nama_database = "kasir_chriss";
+$nama_database = "kasir_Reno";
 
 $db = mysqli_connect($server, $user, $password, $nama_database);
 
